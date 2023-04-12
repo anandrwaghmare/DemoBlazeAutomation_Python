@@ -1,0 +1,14 @@
+2023-04-04 17:11:26,793 - demo_blaze - INFO - ****test_0001_login****
+2023-04-04 17:11:26,881 - demo_blaze - INFO - ****Launching Chrome****
+2023-04-04 17:11:37,576 - demo_blaze - INFO - ****Entering Username****
+2023-04-04 17:11:38,026 - demo_blaze - INFO - ****Entering Password****
+2023-04-04 17:11:38,200 - demo_blaze - INFO - ****Successful Log In****
+2023-04-04 17:11:38,200 - demo_blaze - INFO - ****Clicking On Samsung****
+2023-04-04 17:11:42,724 - demo_blaze - INFO - ****Adding Samsung To The Cart****
+2023-04-04 17:11:44,093 - demo_blaze - INFO - ****Clicking On Laptops****
+2023-04-04 17:11:44,225 - demo_blaze - INFO - ****Clicking On Macbook****
+2023-04-04 17:11:46,958 - demo_blaze - INFO - ****Adding Macbook To The Cart****
+2023-04-04 17:11:47,865 - demo_blaze - INFO - ****Placing Order****
+2023-04-04 17:11:47,996 - demo_blaze - INFO - ****Entering Customer Details****
+2023-04-04 17:11:49,479 - demo_blaze - INFO - ****Order Successfully placed****
+2023-04-04 17:11:50,531 - demo_blaze - INFO - ****Printing Customer Order Details****
