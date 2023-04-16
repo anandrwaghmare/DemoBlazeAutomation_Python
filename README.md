@@ -24,4 +24,7 @@ Technologies used:
 # Screenshot
 ![screenshot](https://user-images.githubusercontent.com/118111187/232319071-6a6a8635-5bfb-4091-a5fa-b3ccc5ca8c4f.png)
 
+## HTML Report
+![report](https://user-images.githubusercontent.com/118111187/232320064-410e9f7d-f41e-4f64-b8ba-211bb400f370.JPG)
+
 
