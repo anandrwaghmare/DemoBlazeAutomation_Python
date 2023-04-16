@@ -14,7 +14,7 @@ Technologies used:
 * Test Driven Development(TDD)
 * GitHub
 
-Homepage
+# Homepage
 
 ![homePage](https://user-images.githubusercontent.com/118111187/232315304-f4d1b938-9c5c-4190-a96c-bfcdfa50ec1c.jpg)
 
