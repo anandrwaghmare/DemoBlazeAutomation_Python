@@ -18,3 +18,7 @@ Technologies used:
 
 ![homePage](https://user-images.githubusercontent.com/118111187/232315304-f4d1b938-9c5c-4190-a96c-bfcdfa50ec1c.jpg)
 
+# Screenshot
+![screenshot](https://user-images.githubusercontent.com/118111187/232319071-6a6a8635-5bfb-4091-a5fa-b3ccc5ca8c4f.png)
+
+
